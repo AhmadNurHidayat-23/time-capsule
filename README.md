@@ -11,7 +11,7 @@ Website untuk menulis pesan digital yang hanya dapat dibaca setelah tanggal dan 
 
 ## Teknologi
 
-Laravel 13, PHP 8.3+, SQLite, Blade, CSS, Vanilla JavaScript, dan Vite. Controller menangani permintaan, layanan menentukan izin pembukaan, dan Blade menampilkan data yang sudah diizinkan.
+Laravel 13, PHP 8.4.1+, SQLite, Blade, CSS, Vanilla JavaScript, dan Vite. Controller menangani permintaan, layanan menentukan izin pembukaan, dan Blade menampilkan data yang sudah diizinkan.
 
 ## Menjalankan
 
